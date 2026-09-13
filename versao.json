@@ -2,7 +2,7 @@
   "versionCode": 2,
   "versionName": "1.0.1",
   "obrigatoria": false,
-  "apkUrl": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/downloads/BraboDoAviator-1.0.2.apk",
+  "apkUrl": "https://github.com/BLECK1597/mybot/releases/tag/v1.0.2",
   "mensagem": "Nova versão disponível.",
   "sha256": "sha256:2187b6565776bcddfd957c58004bd36dd073d89e7a01ef524b197e600c30b22a"
 }
