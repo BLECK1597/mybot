@@ -4,5 +4,5 @@
   "obrigatoria": true,
   "apkUrl": "https://github.com/BLECK1597/mybot/releases/tag/v1.0.2/braboAviator1-0-2.apk",
   "mensagem": "Nova versão disponível.",
-  "sha256": "2187b6565776bcddfd957c58004bd36dd073d89e7a01ef524b197e600c30b22a"
+  "sha256": "sha256:2187b6565776bcddfd957c58004bd36dd073d89e7a01ef524b197e600c30b22a"
 }
