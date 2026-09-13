@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "obrigatoria": true,
+  "apkUrl": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/downloads/BraboDoAviator-1.0.2.apk",
+  "mensagem": "Nova versão disponível com correções importantes.",
+  "sha256": "COLOQUE_AQUI_O_SHA256_DO_APK"
+}
