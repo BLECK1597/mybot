@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "2.2.3",
-  "obrigatoria": false,
+  "versionCode": 4,
+  "versionName": "2.3.3",
+  "obrigatoria": true,
   "apkUrl": "https://github.com/BLECK1597/mybot/releases/download/v1.0.2/braboaviator.apk",
   "mensagem": "Nova versão disponível.",
-  "sha256": "6af13da3f16a6403b764561af3d8bc18cd39852286b7a4a1dd1468d4abd44366"
+  "sha256": "f77e2f81f318c183c65296ec5e577cb13e41bad2d3ce4146651ede70f475b710"
 }
